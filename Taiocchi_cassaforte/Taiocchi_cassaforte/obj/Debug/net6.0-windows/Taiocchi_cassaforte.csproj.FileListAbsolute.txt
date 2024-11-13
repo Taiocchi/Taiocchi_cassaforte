@@ -1,0 +1,17 @@
+C:\Users\taiocchi.21206\C#\Taiocchi_cassaforte\Taiocchi_cassaforte\Taiocchi_cassaforte\bin\Debug\net6.0-windows\Taiocchi_cassaforte.exe
+C:\Users\taiocchi.21206\C#\Taiocchi_cassaforte\Taiocchi_cassaforte\Taiocchi_cassaforte\bin\Debug\net6.0-windows\Taiocchi_cassaforte.deps.json
+C:\Users\taiocchi.21206\C#\Taiocchi_cassaforte\Taiocchi_cassaforte\Taiocchi_cassaforte\bin\Debug\net6.0-windows\Taiocchi_cassaforte.runtimeconfig.json
+C:\Users\taiocchi.21206\C#\Taiocchi_cassaforte\Taiocchi_cassaforte\Taiocchi_cassaforte\bin\Debug\net6.0-windows\Taiocchi_cassaforte.dll
+C:\Users\taiocchi.21206\C#\Taiocchi_cassaforte\Taiocchi_cassaforte\Taiocchi_cassaforte\bin\Debug\net6.0-windows\Taiocchi_cassaforte.pdb
+C:\Users\taiocchi.21206\C#\Taiocchi_cassaforte\Taiocchi_cassaforte\Taiocchi_cassaforte\obj\Debug\net6.0-windows\Taiocchi_cassaforte.Form1.resources
+C:\Users\taiocchi.21206\C#\Taiocchi_cassaforte\Taiocchi_cassaforte\Taiocchi_cassaforte\obj\Debug\net6.0-windows\Taiocchi_cassaforte.csproj.GenerateResource.cache
+C:\Users\taiocchi.21206\C#\Taiocchi_cassaforte\Taiocchi_cassaforte\Taiocchi_cassaforte\obj\Debug\net6.0-windows\Taiocchi_cassaforte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taiocchi.21206\C#\Taiocchi_cassaforte\Taiocchi_cassaforte\Taiocchi_cassaforte\obj\Debug\net6.0-windows\Taiocchi_cassaforte.AssemblyInfoInputs.cache
+C:\Users\taiocchi.21206\C#\Taiocchi_cassaforte\Taiocchi_cassaforte\Taiocchi_cassaforte\obj\Debug\net6.0-windows\Taiocchi_cassaforte.AssemblyInfo.cs
+C:\Users\taiocchi.21206\C#\Taiocchi_cassaforte\Taiocchi_cassaforte\Taiocchi_cassaforte\obj\Debug\net6.0-windows\Taiocchi_cassaforte.csproj.CoreCompileInputs.cache
+C:\Users\taiocchi.21206\C#\Taiocchi_cassaforte\Taiocchi_cassaforte\Taiocchi_cassaforte\obj\Debug\net6.0-windows\Taiocchi_cassaforte.sourcelink.json
+C:\Users\taiocchi.21206\C#\Taiocchi_cassaforte\Taiocchi_cassaforte\Taiocchi_cassaforte\obj\Debug\net6.0-windows\Taiocchi_cassaforte.dll
+C:\Users\taiocchi.21206\C#\Taiocchi_cassaforte\Taiocchi_cassaforte\Taiocchi_cassaforte\obj\Debug\net6.0-windows\refint\Taiocchi_cassaforte.dll
+C:\Users\taiocchi.21206\C#\Taiocchi_cassaforte\Taiocchi_cassaforte\Taiocchi_cassaforte\obj\Debug\net6.0-windows\Taiocchi_cassaforte.pdb
+C:\Users\taiocchi.21206\C#\Taiocchi_cassaforte\Taiocchi_cassaforte\Taiocchi_cassaforte\obj\Debug\net6.0-windows\Taiocchi_cassaforte.genruntimeconfig.cache
+C:\Users\taiocchi.21206\C#\Taiocchi_cassaforte\Taiocchi_cassaforte\Taiocchi_cassaforte\obj\Debug\net6.0-windows\ref\Taiocchi_cassaforte.dll

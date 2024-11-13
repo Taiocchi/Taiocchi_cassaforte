@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Taiocchi_cassaforte")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a1920b29138b8dd95cb0d0af716c8f80dfb03c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a655e73125041834af1a075ccd8af985145ec9d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Taiocchi_cassaforte")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Taiocchi_cassaforte")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
